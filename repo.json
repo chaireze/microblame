@@ -2,5 +2,14 @@
   "Name": "microblame",
   "Description": "Git blame plugin",
   "Website": "https://github.com/chaireze/microblame",
-  "Tags": ["microblame"]
+  "Tags": ["microblame"],
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/chaireze/microblame/archive/v1.0.0.zip",
+      "Require": {
+        "micro": ">=2.0.10"
+      }
+    }
+   ]
  }]
